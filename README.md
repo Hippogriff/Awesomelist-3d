@@ -6,5 +6,5 @@ An awesome list of tools available in 3d computer graphics for the research in c
 2. [Pymesh](https://pymesh.readthedocs.io)
 
 ## Algorithms
-1. [Poisson Surface Reconstuction](https://github.com/mmolero/pypoisson)
+1. [Poisson Surface Reconstuction](https://github.com/mmolero/pypoisson) (Python)
 2. [Poisson Surface Reconsutrction](http://www.cs.jhu.edu/~misha/Code/PoissonRecon/Version12.00/) (c++)
