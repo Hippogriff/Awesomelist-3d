@@ -15,6 +15,7 @@ An awesome list of tools available in 3d computer graphics for the research in c
 ## Visualization tools
 1. [Mitsuba](https://www.mitsuba-renderer.org/) (c++)
 2. [MeshLab](http://www.meshlab.net/) (c++)
+3. [lucid](https://github.com/tensorflow/lucid/tree/master/lucid/misc/gl) (Python)
 
 ## Awesome List of papers
 
