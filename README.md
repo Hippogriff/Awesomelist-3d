@@ -6,6 +6,7 @@ An awesome list of tools available in 3d computer graphics for the research in c
 2. [Pymesh](https://pymesh.readthedocs.io)
 3. [Trimesh](https://github.com/mikedh/trimesh)
 4. [MeshLabXML](https://github.com/3DLIRIOUS/MeshLabXML)
+5. [Kaolin](https://github.com/NVIDIAGameWorks/kaolin) (Deep Learning Model Zoo, utilities etc)
 
 ## Algorithms
 1. [Poisson Surface Reconstuction](https://github.com/mmolero/pypoisson) (Python)
