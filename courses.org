@@ -52,6 +52,8 @@
 ** Courses
    1. MIT OCW, Gilbert Strang
       https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm
+   2. Stanford, Linear Dynamical System
+      https://see.stanford.edu/Course/EE263
 
 ** Books
    1. Introduction to Linear Algebra, Gilbert Strang
