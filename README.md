@@ -21,6 +21,7 @@ An awesome list of tools available in 3d computer graphics for the research in c
 2. [MeshLab](http://www.meshlab.net/) (c++)
 3. [lucid](https://github.com/tensorflow/lucid/tree/master/lucid/misc/gl) (Python)
 
-## Awesome List of papers
+## Dataset
+1. [SPARE3D: A Dataset for SPAtial REasoning on Three-View Line Drawings](https://ai4ce.github.io/SPARE3D/)
 
 
