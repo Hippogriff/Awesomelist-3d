@@ -15,6 +15,7 @@ An awesome list of tools available in 3d computer graphics for the research in c
 2. [Poisson Surface Reconsutrction](http://www.cs.jhu.edu/~misha/Code/PoissonRecon/Version12.00/) (c++)
 3. [Contours, Ridges and Valleys](http://rtsc.cs.princeton.edu/) (c++)
 4. [Mesh Processing Library](https://rawgit.com/hhoppe/Mesh-processing-library/master/README.html) (c++)
+5. [Watertight and Simplified Meshes through TSDF Fusion](https://github.com/davidstutz/mesh-fusion) (c++)
 
 ## Visualization tools
 1. [Mitsuba](https://www.mitsuba-renderer.org/) (c++)
