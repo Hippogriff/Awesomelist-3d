@@ -9,6 +9,8 @@ An awesome list of tools available in 3d computer graphics for the research in c
 5. [Kaolin](https://github.com/NVIDIAGameWorks/kaolin) (Deep Learning Model Zoo, utilities etc)
 6. [Pyrender](https://github.com/mmatl/pyrender)
 7. [Polyscope](https://polyscope.run/py/)
+8. [Pytorch Blender Integration](https://github.com/cheind/pytorch-blender)
+
 
 ## Algorithms
 1. [Poisson Surface Reconstuction](https://github.com/mmolero/pypoisson) (Python)
@@ -16,7 +18,9 @@ An awesome list of tools available in 3d computer graphics for the research in c
 3. [Contours, Ridges and Valleys](http://rtsc.cs.princeton.edu/) (c++)
 4. [Mesh Processing Library](https://rawgit.com/hhoppe/Mesh-processing-library/master/README.html) (c++)
 5. [Watertight and Simplified Meshes through TSDF Fusion](https://github.com/davidstutz/mesh-fusion) (c++)
-
+6. [ManifoldPlus: A Robust and Scalable Watertight Manifold Surface Generation Method for Triangle Soups](https://github.com/hjwdzh/ManifoldPlus) (c++)
+7. [GPU-based signed distance field generator from 3D triangle meshes](https://github.com/armory3d/sdfgen) (c++)
+8. 
 ## Visualization tools
 1. [Mitsuba](https://www.mitsuba-renderer.org/) (c++)
 2. [MeshLab](http://www.meshlab.net/) (c++)
