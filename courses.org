@@ -82,6 +82,13 @@
 ** Books
 1. http://incompleteideas.net/book/the-book-2nd.html
 
+* Differential Equations
+**  Course
+1. https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/index.htm
+2. https://ocw.mit.edu/courses/mathematics/18-303-linear-partial-differential-equations-fall-2006/index.htm
+
+** Books
+1. Advanced Engineering Mathematics, Erwin Kreyszig.
 
 * Machine Learning
 
