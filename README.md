@@ -1,6 +1,9 @@
 # Awesomelist-3d
 An awesome list of tools available in 3d computer graphics for the research in computer graphics/vision and machine learning
 
+## c++ Libraries
+1. [gaps](https://github.com/tomfunkhouser/gaps)
+
 ## Python Libraries
 1. [open3d](http://open3d.org/)
 2. [Pymesh](https://pymesh.readthedocs.io)
