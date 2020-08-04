@@ -13,6 +13,7 @@ An awesome list of tools available in 3d computer graphics for the research in c
 6. [Pyrender](https://github.com/mmatl/pyrender)
 7. [Polyscope](https://polyscope.run/py/)
 8. [Pytorch Blender Integration](https://github.com/cheind/pytorch-blender)
+9. [ParaView](https://www.paraview.org/)
 
 
 ## Algorithms
