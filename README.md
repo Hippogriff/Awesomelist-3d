@@ -25,9 +25,8 @@ An awesome list of tools available in 3d computer graphics for the research in c
 6. [ManifoldPlus: A Robust and Scalable Watertight Manifold Surface Generation Method for Triangle Soups](https://github.com/hjwdzh/ManifoldPlus) (c++)
 7. [GPU-based signed distance field generator from 3D triangle meshes](https://github.com/armory3d/sdfgen) (c++)
 8. [Mesh to SDF](https://github.com/marian42/mesh_to_sdf) (Python)
-9. [Cilantro](https://github.com/kzampog/cilantro) (c++)
 <details>
-    <summary>Point Cloud library</summary>
+    <summary>9. [Cilantro](https://github.com/kzampog/cilantro) (c++)</summary>
     library for convex hull, clustering, spatial reasoning on point cloud.
 </details>
 
