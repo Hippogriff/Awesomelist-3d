@@ -29,6 +29,7 @@ An awesome list of tools available in 3d computer graphics for the research in c
     <summary>9. [Cilantro](https://github.com/kzampog/cilantro) (c++)</summary>
     library for convex hull, clustering, spatial reasoning on point cloud.
 </details>
+9. [mesh-voxelization](https://github.com/davidstutz/mesh-voxelization)
 
 
 ## Visualization tools
