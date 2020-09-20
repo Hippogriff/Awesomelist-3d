@@ -93,6 +93,7 @@
 * Machine Learning
 
 ** Courses
+   1. https://www.cs.cornell.edu/courses/cs4780/2018fa/page18/
 
 ** Books
 
