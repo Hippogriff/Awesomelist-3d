@@ -100,5 +100,8 @@
 * Mathematics for Machine Learning and Graphics
 
 ** Courses
+   1. [Shape analysis (spring 2019), Justin Solomon](https://www.youtube.com/watch?v=C8II6BTmaYw&list=PLQ3UicqQtfNsvCxJRFj9Eu4XpJCSp-Cpa)
+   2. [Computer Graphics (Fall 202), Keenan Krane](http://15462.courses.cs.cmu.edu/fall2020/)
+   3. [CS 468: Differential Geometry for Computer Science (spring 2013)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNvPmZftPyQ-qK1wdXBxj86W)
 
 ** Books
