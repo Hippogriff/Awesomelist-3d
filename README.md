@@ -3,6 +3,7 @@ An awesome list of tools available in 3d computer graphics for the research in c
 
 ## c++ Libraries
 1. [gaps](https://github.com/tomfunkhouser/gaps)
+2. [libgl](https://libigl.github.io/), the best there can be.
 
 ## Python Libraries
 1. [open3d](http://open3d.org/)
