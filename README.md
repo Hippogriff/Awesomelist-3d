@@ -14,6 +14,10 @@ An awesome list of tools available in 3d computer graphics for the research in c
 7. [Polyscope](https://polyscope.run/py/)
 8. [Pytorch Blender Integration](https://github.com/cheind/pytorch-blender)
 9. [ParaView](https://www.paraview.org/)
+10. [MeshPlot](https://github.com/skoch9/meshplot/), cool visualization in jupyter notebook
+11. [WildMeshing](https://wildmeshing.github.io/), a simple and robust 2d and 3d meshing package
+12. [igl](https://libigl.github.io/libigl-python-bindings/), igl python bindings
+13. [Polyfem](https://polyfem.github.io/), finite element library
 
 
 ## Algorithms
