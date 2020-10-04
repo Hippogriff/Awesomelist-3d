@@ -105,5 +105,6 @@
    3. [CS 468: Differential Geometry for Computer Science (spring 2013)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNvPmZftPyQ-qK1wdXBxj86W)
    4. [Symposium of Graphics Proessing](https://www.youtube.com/playlist?list=PLUykN3u3Z3NXLOeaUJmZHdEJ67KvpNzK2)
    5. Tutorial on libgl with python: https://mybinder.org/v2/gh/libigl/libigl-python-bindings/master?filepath=tutorial%2Ftutorials.ipynb
+   6. https://github.com/Hippogriff/smgp (geometry modeling course and solution from ETH)
    
 ** Books
