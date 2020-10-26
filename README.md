@@ -37,6 +37,7 @@ An awesome list of tools available in 3d computer graphics for the research in c
 </details>
 
 9. [mesh-voxelization](https://github.com/davidstutz/mesh-voxelization)
+10. [spharapy](https://spharapy.readthedocs.io/en/latest/index.html) Harmonic Analyis of Meshes, includes laplace beltrami operators
 
 
 ## Visualization tools
