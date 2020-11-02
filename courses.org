@@ -108,6 +108,6 @@
    6. https://github.com/Hippogriff/smgp (geometry modeling course and solution from ETH https://github.com/eth-igl/GP2018-Assignments)
    7. https://github.com/eth-igl/GP2020-Assignments
    8. https://github.com/danielepanozzo/gp
-   
+   9. https://github.com/alecjacobson/geometry-processing-parameterization (This seems to me the best geometry processing coursework.)
    
 ** Books
