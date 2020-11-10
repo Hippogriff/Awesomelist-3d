@@ -22,7 +22,7 @@
    1. Differntial Geometric of Curves and Surfaces (Do Carmo):
          https://www.slader.com/textbook/9780132125895-differential-geometry-of-curves-and-surfaces/88/exercises/1/
    2. Elementary Differential Geometry (Andrew Pressley)
-
+   3. Non-Euclidean Methods in Machine Learning (http://graphics.stanford.edu/courses/cs468-20-fall/index.html)
 ** Course
    1. https://sites.math.rutgers.edu/~zchan/432/info.html (Do Carmo)
    2. http://faculty.bard.edu/~belk/math352f11/ (Do Carmo)
