@@ -57,6 +57,7 @@
    2. Stanford, Linear Dynamical System
       https://see.stanford.edu/Course/EE263
    3. https://www.youtube.com/watch?v=Ikl1wnwIOmM&list=PL_a9tY9IhJuPDEDq97tq0uKXpsTZYBIXe&ab_channel=LadislavKavan
+   4. https://github.com/oseledets/nla2020 [Numerical Linear Algebra]
 ** Books
    1. Introduction to Linear Algebra, Gilbert Strang
    2. Linear Algebra Done Right, Sheldon Axler
