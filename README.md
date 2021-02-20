@@ -23,6 +23,8 @@ An awesome list of tools available in 3d computer graphics for the research in c
 15. [point cloud utils](https://github.com/fwilliams/point-cloud-utils), chamfer, hausdorff distance, poisson disk sampling etc.
 16. [pymanopt](https://www.pymanopt.org/) Optimization on Manifold using python.
 17. [ivy-dl](https://ivy-dl.org/vision/) 3D vision library with deep learning support. 
+18. [sdf](https://github.com/fogleman/sdf) python library for creating meshes using sdf of interesting primitives
+
 ## Algorithms
 1. [Poisson Surface Reconstuction](https://github.com/mmolero/pypoisson) (Python)
 2. [Poisson Surface Reconsutrction](http://www.cs.jhu.edu/~misha/Code/PoissonRecon/Version12.00/) (c++)
