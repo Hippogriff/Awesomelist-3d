@@ -97,6 +97,7 @@
 
 ** Courses
    1. https://www.cs.cornell.edu/courses/cs4780/2018fa/page18/
+   2. (Kernel Methods in Machine Learning)[http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2021mva/index.html]
 
 ** Books
 
