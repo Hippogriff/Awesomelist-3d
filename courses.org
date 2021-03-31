@@ -38,7 +38,7 @@
   2. http://www.stat.cmu.edu/~ryantibs/convexopt-S15/
   3. https://optimization.discovery.wisc.edu/graduate-studies/optimization-courses/
   4. https://laurentlessard.com/teaching/532-matrix-methods/
-  5. 
+  5. http://graphics.stanford.edu/courses/cs468-20-fall/schedule.html
 ** Books
   1. Numerical Optimization (Nocedal)
   2. Convex Optimization (Boyd)
@@ -115,3 +115,7 @@
    9. https://github.com/alecjacobson/geometry-processing-parameterization (This seems to me the best geometry processing coursework.)
    
 ** Books
+
+* Computer vision
+** courses
+1. [First principles of computer vision](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw?app=desktop)
