@@ -24,6 +24,7 @@ An awesome list of tools available in 3d computer graphics for the research in c
 16. [pymanopt](https://www.pymanopt.org/) Optimization on Manifold using python.
 17. [ivy-dl](https://ivy-dl.org/vision/) 3D vision library with deep learning support. 
 18. [sdf](https://github.com/fogleman/sdf) python library for creating meshes using sdf of interesting primitives
+19. [simple-3dviz](https://github.com/angeloskath/simple-3dviz)
 
 ## Algorithms
 1. [Poisson Surface Reconstuction](https://github.com/mmolero/pypoisson) (Python)
