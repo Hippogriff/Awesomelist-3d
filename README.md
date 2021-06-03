@@ -20,7 +20,7 @@ An awesome list of tools available in 3d computer graphics for the research in c
 12. [igl](https://libigl.github.io/libigl-python-bindings/), igl python bindings
 13. [Polyfem](https://polyfem.github.io/), finite element library
 14. [Directional](https://github.com/avaxman/Directional) visualizing and understanding directional fields on meshes.
-15. [point cloud utils](https://github.com/fwilliams/point-cloud-utils), chamfer, hausdorff distance, poisson disk sampling etc.
+15. [point cloud utils](https://github.com/fwilliams/point-cloud-utils), sdf using winding number chamfer, hausdorff distance, poisson disk sampling etc.
 16. [pymanopt](https://www.pymanopt.org/) Optimization on Manifold using python.
 17. [ivy-dl](https://ivy-dl.org/vision/) 3D vision library with deep learning support. 
 18. [sdf](https://github.com/fogleman/sdf) python library for creating meshes using sdf of interesting primitives
