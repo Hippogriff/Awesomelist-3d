@@ -119,3 +119,5 @@
 * Computer vision
 ** courses
 1. [First principles of computer vision](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw?app=desktop)
+2. [Multi-view computer vision](https://www.youtube.com/playlist?list=PLEB45naDUsF2vpvdxZ72Jjl8ZEKISv4Nh)
+3. [CS231A: Computer Vision, From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/)
