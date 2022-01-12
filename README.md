@@ -38,13 +38,8 @@ An awesome list of tools available in 3d computer graphics for the research in c
 7. [GPU-based signed distance field generator from 3D triangle meshes](https://github.com/armory3d/sdfgen) (c++)
 8. [Mesh to SDF](https://github.com/marian42/mesh_to_sdf) (Python)
 9. [Approximate Convex Decomposition](https://github.com/kmammou/v-hacd) (Python)
-<details>
-    <summary>9. [Cilantro](https://github.com/kzampog/cilantro) (c++)</summary>
-    library for convex hull, clustering, spatial reasoning on point cloud.
-</details>
-
-9. [mesh-voxelization](https://github.com/davidstutz/mesh-voxelization)
-10. [spharapy](https://spharapy.readthedocs.io/en/latest/index.html) Harmonic Analyis of Meshes, includes laplace beltrami operators
+10. [mesh-voxelization](https://github.com/davidstutz/mesh-voxelization)
+11. [spharapy](https://spharapy.readthedocs.io/en/latest/index.html) Harmonic Analyis of Meshes, includes laplace beltrami operators
 
 
 ## Visualization tools
