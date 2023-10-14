@@ -27,6 +27,7 @@ An awesome list of tools available in 3d computer graphics for the research in c
 19. [simple-3dviz](https://github.com/angeloskath/simple-3dviz)
 20. [pymeshlab](https://pymeshlab.readthedocs.io/en/latest/)
 21. [Mitsuba 2](https://mitsuba2.readthedocs.io/en/latest/index.html) Physical based rendering with python and numpy support.
+22. [Geogram](https://github.com/BrunoLevy/geogram) A programming library with geometric algorithms.
 
 ## Algorithms
 1. [Poisson Surface Reconstuction](https://github.com/mmolero/pypoisson) (Python)
